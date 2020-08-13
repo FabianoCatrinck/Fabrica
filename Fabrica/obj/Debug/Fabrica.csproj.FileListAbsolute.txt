@@ -1,0 +1,9 @@
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.exe.config
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.exe
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\bin\Debug\Fabrica.pdb
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.csprojResolveAssemblyReference.cache
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.Form1.resources
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.Properties.Resources.resources
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.csproj.GenerateResource.Cache
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.exe
+C:\Estudo CSharp\Fabrica\Fabrica\Fabrica\obj\Debug\Fabrica.pdb
